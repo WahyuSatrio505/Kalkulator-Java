@@ -1,3 +1,5 @@
+Berikut adalah codingan Pemrograman Java  saya , jika anda ingin mencobanya di teks editor anda.
+
 import java.util.*;
 
 public class WahyuKalkulator {
