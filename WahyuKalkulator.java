@@ -9,7 +9,7 @@ public class WahyuKalkulator {
         float a, b, hasil;
         char operator;
 
-        // Input nilai a
+        // Input nilai pertaman anda
         System.out.print("Masukan Nilai Pertaman Kamu : ");
         a = inputUser.nextFloat();
 
@@ -17,7 +17,7 @@ public class WahyuKalkulator {
         System.out.print("Operator (+, -, *, /): ");
         operator = inputUser.next().charAt(0);
 
-        // Input nilai b
+        // Input nilai kedua anda
         System.out.print("Masukan Nilai Ke Dua Kamu: ");
         b = inputUser.nextFloat();
 
