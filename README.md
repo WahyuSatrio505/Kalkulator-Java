@@ -1,5 +1,5 @@
-# Kalkulator Java Sederhana
-Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program ini bisa melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian.
+*# Kalkulator Java Sederhana
+Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program ini bisa melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian.*
 
 ## Cara Menjalankan Program 
 
@@ -17,4 +17,4 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 - Pembagian
 
 ## Kontributor
-- Wahyu Satrio Wibowo
+*- Wahyu Satrio Wibowo*
