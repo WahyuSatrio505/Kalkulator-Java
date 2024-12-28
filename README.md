@@ -18,4 +18,4 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 ## Kontributor
 *- Wahyu Satrio Wibowo*
-iG : whyuu05__
+untuk informasi lainya iG : whyuu05__
