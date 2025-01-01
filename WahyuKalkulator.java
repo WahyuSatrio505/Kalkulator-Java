@@ -43,7 +43,7 @@ public class WahyuKalkulator {
                 System.out.println("Hasil = " + hasil);
 
             } else {
-                System.out.println("Kesalahan : Pembagian dengan nol tidak diperbolehkan.");
+                System.out.println("Kesalahan : Pembagian denggan angka nol tidak di perbolehkan.");
             }
         } else {
             System.out.println("Operator hasil yang anda input tidak ditemukan.");
