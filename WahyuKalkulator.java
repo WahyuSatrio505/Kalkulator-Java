@@ -1,4 +1,4 @@
-Berikut adalah codingan Pemrograman Java  saya , jika anda ingin mencoba dan menjalankanya di teks editor anda.
+Berikut adalah codingan Pemrograman Java, jika anda ingin mencoba dan menjalankanya di teks editor anda.
 
 import java.util.*;
 
