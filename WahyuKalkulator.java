@@ -10,7 +10,7 @@ public class WahyuKalkulator {
         char operator;
 
         // Input nilai pertaman anda
-        System.out.print("Masukan Nilai Pertaman Kamu : ");
+        System.out.print("Masukan Nilai Pertama Kamu : ");
         a = inputUser.nextFloat();
 
         // Input operator
