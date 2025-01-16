@@ -10,6 +10,8 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 4. Compile dan jalankan program : javac Kalkulator dan java Kalkulator
 
+5. Ataupun anda bisa mencoba dengan RUN langsung di terminal VS code anda
+
 ## Fitur Yang ada di dalam Program ini
 - Penjumlahan
 - Pengurangan
