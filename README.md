@@ -12,6 +12,10 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 5. Ataupun anda bisa mencoba dengan RUN langsung di terminal VS code anda
 
+6. lalu anda akan di berikan "masukan angka pertama anda"
+
+7. dan untuk seterusnya kamu bisa mengikuti perintah yang di berikan , memasukan  +, -, * (perkalian), \ (Pembagian).
+
 ## Fitur Yang ada di dalam Program ini
 - Penjumlahan
 - Pengurangan
