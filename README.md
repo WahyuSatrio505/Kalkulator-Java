@@ -10,7 +10,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 4. Compile dan jalankan program : javac Kalkulator dan java Kalkulator
 
-5. Ataupun anda bisa mencoba dengan RUN langsung di terminal VS code anda
+5. Ataupun anda bisa mencoba dengan RUN langsung di terminal VS code kamu
 
 6. lalu anda akan di berikan "masukan angka pertama anda"
 
