@@ -5,11 +5,11 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 1. Clone Repository ini ke komputer anda
    
-3. Git clone : https://github.com/WahyuSatrio505/Kalkulator-Java.git
+2. Git clone : https://github.com/WahyuSatrio505/Kalkulator-Java.git
 
-4. Buka file di editor atau terminal. Pastikan **Java Development Kit (JDK)** sudah terinstal di dalam komputer anda
+5. Buka file di editor atau terminal. Pastikan **Java Development Kit (JDK)** sudah terinstal di dalam komputer anda
 
-5. Compile dan jalankan program : javac Kalkulator dan java Kalkulatorrrnya
+6. Compile dan jalankan program : javac Kalkulator dan java Kalkulatorrrnya
 
 7. Ataupun anda bisa mencoba dengan RUN langsung di terminal VS code andaaa
 
