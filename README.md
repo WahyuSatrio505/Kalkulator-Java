@@ -17,7 +17,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 9. dan untuk seterusnya kamu bisa mengikuti perintah yang di berikan , memasukan  +, -, * (perkalian), \ (Pembagian).
 
-## fitur yang ada di dalam program ini
+## fitur yang ada di dalam program di bawah ini
 - Penjumlahan
 - Pengurangan
 - Perkalian
