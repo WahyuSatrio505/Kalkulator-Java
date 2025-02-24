@@ -21,7 +21,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 - Penjumlahan
 - Pengurangan
 - Perkalian
-- Pembagian
+- Pembagian dan
 
 ## Kontributor
 *- Wahyu Satrio Wibowo*
