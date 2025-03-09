@@ -3,7 +3,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 ## Cara Menjalankan Program 
 
-1. Clone Repository ini ke komputer anda
+1. Clone Repository ini ke komputer kamuuu
    
 2. Git clone : https://github.com/WahyuSatrio505/Kalkulator-Java.git
 
