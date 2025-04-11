@@ -25,4 +25,4 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 ## Kontributor
 *- Wahyu Satrio Wibowo*
-untuk informasi lainya bisa hubungi saya di ig : @whyuu05__
+untuk informasi lainya bisa hubungi saya di ig : @whyuueyzz
