@@ -15,7 +15,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
 
 8. lalu anda akan di berikan "masukan angka pertama anda"
 
-9. dan untuk seterusnya kamu bisa mengikuti perintah yang di berikan , memasukan  +, -, * (perkalian), \ (Pembagian).
+9. dan untuk seterusnya kamu bisa mengikuti perintah yang di berikan , memasukan  +, -, * (perkalian), \ (Pembagian)...
 
 ## fitur yang ada di dalam program di bawah ini
 - Penjumlahan
