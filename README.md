@@ -7,7 +7,7 @@ Program kalkulator ini dibuat menggunakan bahasa pemrograman **Java**. Program i
    
 2. Git clone : https://github.com/WahyuSatrio505/Kalkulator-Java.git
 
-5. Buka file di editor atau terminal. Pastikan **Java Development Kit (JDK)** sudah terinstal di dalam komputer kamu sendiri
+5. Buka file di editor atau terminal kamu sendiri, Pastikan **Java Development Kit (JDK)** sudah terinstal di dalam komputer kamu sendiri
 
 6. Compile dan jalankan program : javac Kalkulator dan java Kalkulatorrrnya
 
